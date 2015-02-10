@@ -1,2 +1,3 @@
-﻿language: csharp
+﻿script: build
+language: csharp
 solution: helloworld.sln
