@@ -8,7 +8,7 @@ namespace HelloWorld
 {
 	class Program
 	{
-		atic void Main(string[] args)
+		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello, world!");
 			Console.ReadLine();
